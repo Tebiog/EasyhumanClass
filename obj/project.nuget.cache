@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Sf8IOQ7RlMEGWdgQouYT8M0DrirL9/0tf7gRgBgwTj+1TB/9Ma9LlG9qTBnYRviEm1+sVw2cVS8Z7GPobxUPqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\de_Riter\\source\\repos\\SimpleOOP\\SimpleOOP\\SimpleOOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\de_Riter\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\de_Riter\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\de_Riter\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

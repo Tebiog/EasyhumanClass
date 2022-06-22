@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SimpleOOP.Manager" Collapsed="true">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAggEAAGAAAAAAQAAAAAAIQACAAIQAAAAAAhAAAAEBA=</HashCode>
+      <FileName>Manager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SimpleOOP.Laborer" Collapsed="true">
+    <Position X="6.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAggEAACAAAAAAAEAAAAAAQACAAAQAAAAAAAAAAAEBA=</HashCode>
+      <FileName>Laborer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SimpleOOP.Accountent" Collapsed="true">
+    <Position X="5.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQgAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAEhA=</HashCode>
+      <FileName>Accountent.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SimpleOOP.Employee" Collapsed="true">
+    <Position X="9.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACABAAABEAAEAAAAAAAAAAAAQAAAABAAACQAFIA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleOOP.Human" Collapsed="true">
+    <Position X="9.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAMAAkAAAYAACEAAAAAAQABAAAAAAAAAQAQAAEDAA=</HashCode>
+      <FileName>Human.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleOOP.Tutor" Collapsed="true">
+    <Position X="10" Y="6.75" Width="1.5" />
+    <InheritanceLine Type="SimpleOOP.Employee" FixedToPoint="true">
+      <Path>
+        <Point X="10.5" Y="4.941" />
+        <Point X="10.5" Y="5.375" />
+        <Point X="9.625" Y="5.375" />
+        <Point X="9.625" Y="7.25" />
+        <Point X="10" Y="7.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>IAgAAAAEAAAAAAAEAAAAAAAAAAEAQAAAAAAAAAABEBA=</HashCode>
+      <FileName>Tutor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SimpleOOP.WorkTask">
+    <Position X="13.5" Y="1" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAEAAABAAAkAACAAAAAAAAAAAAAAAAQQAAAABA=</HashCode>
+      <FileName>WorkTask.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="SimpleOOP.IManager">
+    <Position X="18.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAIAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>IManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SimpleOOP.IWorker">
+    <Position X="17" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>IWorker.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="SimpleOOP.Gender">
+    <Position X="18.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACgAAAAAAAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Gender.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="SimpleOOP.Nationality">
+    <Position X="18.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQCAAAQAAACAAAAAAAAAAAABAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Nationality.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

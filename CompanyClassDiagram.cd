@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SimpleOOP.Employee">
+    <Position X="4" Y="6.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAEAAEAAAAAAAAAAAAQAAAABAAACQAFIA=</HashCode>
+      <FileName>Employee.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleOOP.Human">
+    <Position X="4" Y="0.75" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAMAAkAAAYAACEAAAAAAQABAAAAAAAAAQAQAAEDAA=</HashCode>
+      <FileName>Human.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleOOP.Tutor" Collapsed="true">
+    <Position X="15" Y="12.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAEAAAAAAAEAAAAAAAAAAEAQAAAAAAAAAAAEBA=</HashCode>
+      <FileName>Tutor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleOOP.Laborer" Collapsed="true">
+    <Position X="12.25" Y="12.75" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAACAAAAAAAEAAAAAAAAAAAAQAAAAAAAAAAAEBA=</HashCode>
+      <FileName>Laborer.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SimpleOOP.ListOfWorkers" Collapsed="true">
+    <Position X="20" Y="6.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="SimpleOOP.ListOfWorkers.ChoiseResize" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>ListOfWorkers.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAARAGAAAAAAAAAECAAAAAQQAAAAAAAAAAAgAAGAEAA=</HashCode>
+      <FileName>ListOfWorkers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SimpleOOP.Manager" Collapsed="true">
+    <Position X="9.25" Y="12.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAEAAAAAAAAAAAAAIAAAAAIQAAAAAAhQAAAEAA=</HashCode>
+      <FileName>Manager.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="SimpleOOP.Worker">
+    <Position X="12.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAggEAACAAACAAAAAAAAAAQACAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>Worker.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="SimpleOOP.IWorker">
+    <Position X="20" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>IWorker.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="SimpleOOP.IManager">
+    <Position X="20" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAAAAAAAAIAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>IManager.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
